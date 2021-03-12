@@ -1,11 +1,11 @@
 {
-    "name": "flutter_general",
-    "short_name": "flutter_general",
+    "name": "Flutter General",
+    "short_name": "Flutter General",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#fff",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A General Flutter Project With Pre Configured Stuffs.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
