@@ -1,5 +1,5 @@
 # Flutter General App
-```Android``` &nbsp;|&nbsp; ```iOS``` &nbsp;|&nbsp; ```Web``` &nbsp;|&nbsp; ```Windows``` &nbsp;|&nbsp; ```MacOS```
+```Android | iOS | Web | Windows | MacOS```
 
 <br/>
 
