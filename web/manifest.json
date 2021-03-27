@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#0175C2",
-    "description": "A General Flutter Project With Pre Configured Stuffs.",
+    "description": "A general application in flutter made to minimize work while creating new project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
