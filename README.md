@@ -27,7 +27,8 @@
 ```
 
 ### Features & Benefits
-* Pre Configured Theme
+* Pre configured theme
+* Pre created classes with customisations
 * Pre created responsive & adaptive widgets
 * Uses provider MVC architecture
 * Pretty directory structure
